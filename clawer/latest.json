@@ -1,1 +1,1 @@
-{"version":"0.28.19","release_notes":"","recent":[]}
+{"version":"0.29.0","release_notes":"Observation-only Better Stack monitoring foundation for KSK. Ships sanitized Vector diagnostics, WhatsApp connection evidence, infrastructure and workflow monitoring, bounded local recovery, and a reviewed service-scoped pilot runbook. Notifications remain disabled pending a separate promotion decision.","recent":["0.28.19"]}
